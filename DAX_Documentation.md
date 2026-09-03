@@ -1,5 +1,5 @@
-PAGE 1 => => => Stoke_Aging 
-### 1.Ending Inventory Value
+### 1 PAGE 1 => => => Stoke_Aging 
+### 1.1Ending Inventory Value
 ```dax 
 Ending Inventory Value =
 VAR MaxDate = MAX(Date_Table[Date])
